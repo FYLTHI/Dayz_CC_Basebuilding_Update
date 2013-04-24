@@ -1,0 +1,8 @@
+2013/03/26 11:06:57 [error] [exception.CDbException] SQLSTATE[HY000] [1045] Access denied for user 'FYLTHI'@'localhost' (using password: YES)
+2013/03/29 02:06:33 [error] [exception.CDbException] SQLSTATE[HY000] [1045] Access denied for user 'FYLTHI'@'localhost' (using password: YES)
+2013/03/29 05:43:30 [error] [system.db.CDbCommand] Error in executing SQL: ALTER TABLE `instance_vehicle`
+	DROP `world_vehicle_id`;
+2013/03/29 05:43:42 [error] [system.db.CDbCommand] Error in executing SQL: ALTER TABLE `instance_vehicle`
+	DROP `instance_id`;
+2013/04/23 21:08:15 [error] [system.db.CDbCommand] Error in executing SQL: activateAddons [
+]

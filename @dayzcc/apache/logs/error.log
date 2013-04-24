@@ -1,0 +1,258 @@
+[Mon Mar 25 16:46:02.211984 2013] [mpm_winnt:notice] [pid 4648:tid 288] AH00455: Apache/2.4.2 (Win32) PHP/5.4.4 configured -- resuming normal operations
+[Mon Mar 25 16:46:02.212984 2013] [mpm_winnt:notice] [pid 4648:tid 288] AH00456: Server built: May 13 2012 14:10:15
+[Mon Mar 25 16:46:02.212984 2013] [core:notice] [pid 4648:tid 288] AH00094: Command line: 'C:\\Program Files (x86)\\Steam\\steamapps\\common\\Arma 2 Operation Arrowhead\\@dayzcc\\apache\\bin\\httpd.exe -d C:/Program Files (x86)/Steam/steamapps/common/Arma 2 Operation Arrowhead/@dayzcc/apache'
+[Mon Mar 25 16:46:02.213984 2013] [mpm_winnt:notice] [pid 4648:tid 288] AH00418: Parent: Created child process 5184
+[Mon Mar 25 16:46:03.168039 2013] [mpm_winnt:notice] [pid 5184:tid 304] AH00354: Child: Starting 64 worker threads.
+ERROR: The process "arma2oaserver_1.exe" not found.
+ERROR: The process "arma2oaserver_1.exe" not found.
+ERROR: The process "arma2oaserver_1.exe" with PID 7048 could not be terminated.
+Reason: This process can only be terminated forcefully (with /F option).
+ERROR: The process "arma2oaserver_2.exe" not found.
+ERROR: The process "arma2oaserver_2.exe" not found.
+[Tue Mar 26 19:59:46.136286 2013] [core:warn] [pid 4588:tid 176] AH00098: pid file C:/Program Files (x86)/Steam/steamapps/common/Arma 2 Operation Arrowhead/@dayzcc/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Mar 26 19:59:46.407301 2013] [mpm_winnt:notice] [pid 4588:tid 176] AH00455: Apache/2.4.2 (Win32) PHP/5.4.4 configured -- resuming normal operations
+[Tue Mar 26 19:59:46.407301 2013] [mpm_winnt:notice] [pid 4588:tid 176] AH00456: Server built: May 13 2012 14:10:15
+[Tue Mar 26 19:59:46.407301 2013] [core:notice] [pid 4588:tid 176] AH00094: Command line: 'C:\\Program Files (x86)\\Steam\\steamapps\\common\\Arma 2 Operation Arrowhead\\@dayzcc\\apache\\bin\\httpd.exe -d C:/Program Files (x86)/Steam/steamapps/common/Arma 2 Operation Arrowhead/@dayzcc/apache'
+[Tue Mar 26 19:59:46.409302 2013] [mpm_winnt:notice] [pid 4588:tid 176] AH00418: Parent: Created child process 5952
+[Tue Mar 26 19:59:47.518365 2013] [mpm_winnt:notice] [pid 5952:tid 304] AH00354: Child: Starting 64 worker threads.
+ERROR: The process "arma2oaserver_2.exe" not found.
+ERROR: The process "arma2oaserver_2.exe" not found.
+ERROR: The process "arma2oaserver_2.exe" not found.
+ERROR: The process "arma2oaserver_1.exe" with PID 5280 could not be terminated.
+Reason: This process can only be terminated forcefully (with /F option).
+[Wed Mar 27 23:32:31.999249 2013] [:error] [pid 5952:tid 792] [client 108.15.34.19:53047] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in C:\\Program Files (x86)\\Steam\\steamapps\\common\\Arma 2 Operation Arrowhead\\@dayzcc\\htdocs\\dayz\\modules\\tools\\parseVehicles.php on line 111, referer: http://68.49.242.56:78/dayz/modules/lib/upload.php
+ERROR: The process "arma2oaserver_1.exe" not found.
+ERROR: The process "arma2oaserver_1.exe" not found.
+ERROR: The process "arma2oaserver_1.exe" not found.
+ERROR: The process "arma2oaserver_1.exe" with PID 3096 could not be terminated.
+Reason: This process can only be terminated forcefully (with /F option).
+ERROR: The process "arma2oaserver_1.exe" with PID 3096 could not be terminated.
+Reason: This process can only be terminated forcefully (with /F option).
+ERROR: The process "arma2oaserver_1.exe" with PID 3096 could not be terminated.
+Reason: This process can only be terminated forcefully (with /F option).
+ERROR: The process "arma2oaserver_1.exe" with PID 3096 could not be terminated.
+Reason: This process can only be terminated forcefully (with /F option).
+ERROR: The process "arma2oaserver_1.exe" with PID 3096 could not be terminated.
+Reason: This process can only be terminated forcefully (with /F option).
+[Thu Mar 28 08:52:04.593517 2013] [core:warn] [pid 4704:tid 176] AH00098: pid file C:/Program Files (x86)/Steam/steamapps/common/Arma 2 Operation Arrowhead/@dayzcc/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Mar 28 08:52:04.889917 2013] [mpm_winnt:notice] [pid 4704:tid 176] AH00455: Apache/2.4.2 (Win32) PHP/5.4.4 configured -- resuming normal operations
+[Thu Mar 28 08:52:04.889917 2013] [mpm_winnt:notice] [pid 4704:tid 176] AH00456: Server built: May 13 2012 14:10:15
+[Thu Mar 28 08:52:04.889917 2013] [core:notice] [pid 4704:tid 176] AH00094: Command line: 'C:\\Program Files (x86)\\Steam\\steamapps\\common\\Arma 2 Operation Arrowhead\\@dayzcc\\apache\\bin\\httpd.exe -d C:/Program Files (x86)/Steam/steamapps/common/Arma 2 Operation Arrowhead/@dayzcc/apache'
+[Thu Mar 28 08:52:04.889917 2013] [mpm_winnt:notice] [pid 4704:tid 176] AH00418: Parent: Created child process 4036
+[Thu Mar 28 08:52:05.825919 2013] [mpm_winnt:notice] [pid 4036:tid 304] AH00354: Child: Starting 64 worker threads.
+ERROR: The process "arma2oaserver_1.exe" with PID 4480 could not be terminated.
+Reason: This process can only be terminated forcefully (with /F option).
+ERROR: The process "arma2oaserver_1.exe" not found.
+[Fri Mar 29 01:19:47.012528 2013] [core:warn] [pid 2132:tid 176] AH00098: pid file C:/Program Files (x86)/Steam/steamapps/common/Arma 2 Operation Arrowhead/@dayzcc/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Mar 29 01:19:47.449328 2013] [mpm_winnt:notice] [pid 2132:tid 176] AH00455: Apache/2.4.2 (Win32) PHP/5.4.4 configured -- resuming normal operations
+[Fri Mar 29 01:19:47.449328 2013] [mpm_winnt:notice] [pid 2132:tid 176] AH00456: Server built: May 13 2012 14:10:15
+[Fri Mar 29 01:19:47.449328 2013] [core:notice] [pid 2132:tid 176] AH00094: Command line: 'C:\\Program Files (x86)\\Steam\\steamapps\\common\\Arma 2 Operation Arrowhead\\@dayzcc\\apache\\bin\\httpd.exe -d C:/Program Files (x86)/Steam/steamapps/common/Arma 2 Operation Arrowhead/@dayzcc/apache'
+[Fri Mar 29 01:19:47.449328 2013] [mpm_winnt:notice] [pid 2132:tid 176] AH00418: Parent: Created child process 2956
+[Fri Mar 29 01:19:48.478930 2013] [mpm_winnt:notice] [pid 2956:tid 304] AH00354: Child: Starting 64 worker threads.
+[Fri Mar 29 02:22:28.816045 2013] [core:warn] [pid 1488:tid 176] AH00098: pid file C:/Program Files (x86)/Steam/steamapps/common/Arma 2 Operation Arrowhead/@dayzcc/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Mar 29 02:22:28.956445 2013] [mpm_winnt:notice] [pid 1488:tid 176] AH00455: Apache/2.4.2 (Win32) PHP/5.4.4 configured -- resuming normal operations
+[Fri Mar 29 02:22:28.956445 2013] [mpm_winnt:notice] [pid 1488:tid 176] AH00456: Server built: May 13 2012 14:10:15
+[Fri Mar 29 02:22:28.956445 2013] [core:notice] [pid 1488:tid 176] AH00094: Command line: 'C:\\Program Files (x86)\\Steam\\steamapps\\common\\Arma 2 Operation Arrowhead\\@dayzcc\\apache\\bin\\httpd.exe -d C:/Program Files (x86)/Steam/steamapps/common/Arma 2 Operation Arrowhead/@dayzcc/apache'
+[Fri Mar 29 02:22:28.956445 2013] [mpm_winnt:notice] [pid 1488:tid 176] AH00418: Parent: Created child process 2880
+[Fri Mar 29 02:22:29.861247 2013] [mpm_winnt:notice] [pid 2880:tid 304] AH00354: Child: Starting 64 worker threads.
+ERROR: The process "arma2oaserver_1.exe" not found.
+[Sat Mar 30 05:00:02.218827 2013] [core:warn] [pid 2572:tid 176] AH00098: pid file C:/Program Files (x86)/Steam/steamapps/common/Arma 2 Operation Arrowhead/@dayzcc/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Mar 30 05:00:02.842828 2013] [mpm_winnt:notice] [pid 2572:tid 176] AH00455: Apache/2.4.2 (Win32) PHP/5.4.4 configured -- resuming normal operations
+[Sat Mar 30 05:00:02.842828 2013] [mpm_winnt:notice] [pid 2572:tid 176] AH00456: Server built: May 13 2012 14:10:15
+[Sat Mar 30 05:00:02.842828 2013] [core:notice] [pid 2572:tid 176] AH00094: Command line: 'C:\\Program Files (x86)\\Steam\\steamapps\\common\\Arma 2 Operation Arrowhead\\@dayzcc\\apache\\bin\\httpd.exe -d C:/Program Files (x86)/Steam/steamapps/common/Arma 2 Operation Arrowhead/@dayzcc/apache'
+[Sat Mar 30 05:00:02.858428 2013] [mpm_winnt:notice] [pid 2572:tid 176] AH00418: Parent: Created child process 3348
+[Sat Mar 30 05:00:04.044030 2013] [mpm_winnt:notice] [pid 3348:tid 304] AH00354: Child: Starting 64 worker threads.
+[Sun Mar 31 16:57:11.032549 2013] [core:warn] [pid 4964:tid 176] AH00098: pid file C:/Program Files (x86)/Steam/steamapps/common/Arma 2 Operation Arrowhead/@dayzcc/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Mar 31 16:57:11.266550 2013] [mpm_winnt:notice] [pid 4964:tid 176] AH00455: Apache/2.4.2 (Win32) PHP/5.4.4 configured -- resuming normal operations
+[Sun Mar 31 16:57:11.266550 2013] [mpm_winnt:notice] [pid 4964:tid 176] AH00456: Server built: May 13 2012 14:10:15
+[Sun Mar 31 16:57:11.266550 2013] [core:notice] [pid 4964:tid 176] AH00094: Command line: 'C:\\Program Files (x86)\\Steam\\steamapps\\common\\Arma 2 Operation Arrowhead\\@dayzcc\\apache\\bin\\httpd.exe -d C:/Program Files (x86)/Steam/steamapps/common/Arma 2 Operation Arrowhead/@dayzcc/apache'
+[Sun Mar 31 16:57:11.266550 2013] [mpm_winnt:notice] [pid 4964:tid 176] AH00418: Parent: Created child process 4404
+[Sun Mar 31 16:57:12.467752 2013] [mpm_winnt:notice] [pid 4404:tid 304] AH00354: Child: Starting 64 worker threads.
+ERROR: The process "arma2oaserver_1.exe" not found.
+ERROR: The process "arma2oaserver_1.exe" not found.
+ERROR: The process "arma2oaserver_1.exe" not found.
+ERROR: The process "arma2oaserver_1.exe" not found.
+ERROR: The process "arma2oaserver_1.exe" not found.
+[Tue Apr 02 20:51:31.781092 2013] [core:warn] [pid 632:tid 176] AH00098: pid file C:/Program Files (x86)/Steam/steamapps/common/Arma 2 Operation Arrowhead/@dayzcc/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Apr 02 20:51:32.210116 2013] [mpm_winnt:notice] [pid 632:tid 176] AH00455: Apache/2.4.2 (Win32) PHP/5.4.4 configured -- resuming normal operations
+[Tue Apr 02 20:51:32.210116 2013] [mpm_winnt:notice] [pid 632:tid 176] AH00456: Server built: May 13 2012 14:10:15
+[Tue Apr 02 20:51:32.210116 2013] [core:notice] [pid 632:tid 176] AH00094: Command line: 'C:\\Program Files (x86)\\Steam\\steamapps\\common\\Arma 2 Operation Arrowhead\\@dayzcc\\apache\\bin\\httpd.exe -d C:/Program Files (x86)/Steam/steamapps/common/Arma 2 Operation Arrowhead/@dayzcc/apache'
+[Tue Apr 02 20:51:32.213116 2013] [mpm_winnt:notice] [pid 632:tid 176] AH00418: Parent: Created child process 404
+[Tue Apr 02 20:51:33.384183 2013] [mpm_winnt:notice] [pid 404:tid 304] AH00354: Child: Starting 64 worker threads.
+ERROR: The process "arma2oaserver_1.exe" not found.
+ERROR: The process "arma2oaserver_1.exe" with PID 2628 could not be terminated.
+Reason: This process can only be terminated forcefully (with /F option).
+ERROR: The process "arma2oaserver_2.exe" not found.
+ERROR: The process "arma2oaserver_2.exe" not found.
+[Thu Apr 04 23:11:17.279764 2013] [core:warn] [pid 3440:tid 176] AH00098: pid file C:/Program Files (x86)/Steam/steamapps/common/Arma 2 Operation Arrowhead/@dayzcc/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Apr 04 23:11:17.529365 2013] [mpm_winnt:notice] [pid 3440:tid 176] AH00455: Apache/2.4.2 (Win32) PHP/5.4.4 configured -- resuming normal operations
+[Thu Apr 04 23:11:17.529365 2013] [mpm_winnt:notice] [pid 3440:tid 176] AH00456: Server built: May 13 2012 14:10:15
+[Thu Apr 04 23:11:17.529365 2013] [core:notice] [pid 3440:tid 176] AH00094: Command line: 'C:\\Program Files (x86)\\Steam\\steamapps\\common\\Arma 2 Operation Arrowhead\\@dayzcc\\apache\\bin\\httpd.exe -d C:/Program Files (x86)/Steam/steamapps/common/Arma 2 Operation Arrowhead/@dayzcc/apache'
+[Thu Apr 04 23:11:17.529365 2013] [mpm_winnt:notice] [pid 3440:tid 176] AH00418: Parent: Created child process 3228
+[Thu Apr 04 23:11:18.465366 2013] [mpm_winnt:notice] [pid 3228:tid 304] AH00354: Child: Starting 64 worker threads.
+ERROR: The process "arma2oaserver_1.exe" not found.
+ERROR: The process "arma2oaserver_1.exe" not found.
+ERROR: The process "arma2oaserver_1.exe" not found.
+ERROR: The process "arma2oaserver_1.exe" not found.
+ERROR: The process "arma2oaserver_1.exe" not found.
+ERROR: The process "arma2oaserver_1.exe" with PID 1392 could not be terminated.
+Reason: This process can only be terminated forcefully (with /F option).
+[Sat Apr 06 06:14:42.737516 2013] [core:warn] [pid 4904:tid 176] AH00098: pid file C:/Program Files (x86)/Steam/steamapps/common/Arma 2 Operation Arrowhead/@dayzcc/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Apr 06 06:14:43.345917 2013] [mpm_winnt:notice] [pid 4904:tid 176] AH00455: Apache/2.4.2 (Win32) PHP/5.4.4 configured -- resuming normal operations
+[Sat Apr 06 06:14:43.345917 2013] [mpm_winnt:notice] [pid 4904:tid 176] AH00456: Server built: May 13 2012 14:10:15
+[Sat Apr 06 06:14:43.345917 2013] [core:notice] [pid 4904:tid 176] AH00094: Command line: 'C:\\Program Files (x86)\\Steam\\steamapps\\common\\Arma 2 Operation Arrowhead\\@dayzcc\\apache\\bin\\httpd.exe -d C:/Program Files (x86)/Steam/steamapps/common/Arma 2 Operation Arrowhead/@dayzcc/apache'
+[Sat Apr 06 06:14:43.361517 2013] [mpm_winnt:notice] [pid 4904:tid 176] AH00418: Parent: Created child process 4968
+[Sat Apr 06 06:14:44.406719 2013] [mpm_winnt:notice] [pid 4968:tid 304] AH00354: Child: Starting 64 worker threads.
+ERROR: The process "arma2oaserver_1.exe" not found.
+[Sat Apr 06 23:51:52.539064 2013] [core:warn] [pid 5092:tid 176] AH00098: pid file C:/Program Files (x86)/Steam/steamapps/common/Arma 2 Operation Arrowhead/@dayzcc/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Apr 06 23:51:52.779078 2013] [mpm_winnt:notice] [pid 5092:tid 176] AH00455: Apache/2.4.2 (Win32) PHP/5.4.4 configured -- resuming normal operations
+[Sat Apr 06 23:51:52.779078 2013] [mpm_winnt:notice] [pid 5092:tid 176] AH00456: Server built: May 13 2012 14:10:15
+[Sat Apr 06 23:51:52.779078 2013] [core:notice] [pid 5092:tid 176] AH00094: Command line: 'C:\\Program Files (x86)\\Steam\\steamapps\\common\\Arma 2 Operation Arrowhead\\@dayzcc\\apache\\bin\\httpd.exe -d C:/Program Files (x86)/Steam/steamapps/common/Arma 2 Operation Arrowhead/@dayzcc/apache'
+[Sat Apr 06 23:51:52.783078 2013] [mpm_winnt:notice] [pid 5092:tid 176] AH00418: Parent: Created child process 948
+[Sat Apr 06 23:51:53.707131 2013] [mpm_winnt:notice] [pid 948:tid 304] AH00354: Child: Starting 64 worker threads.
+ERROR: The process "arma2oaserver_1.exe" not found.
+[Sun Apr 07 16:29:39.022556 2013] [core:warn] [pid 5084:tid 176] AH00098: pid file C:/Program Files (x86)/Steam/steamapps/common/Arma 2 Operation Arrowhead/@dayzcc/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Apr 07 16:29:39.162956 2013] [mpm_winnt:notice] [pid 5084:tid 176] AH00455: Apache/2.4.2 (Win32) PHP/5.4.4 configured -- resuming normal operations
+[Sun Apr 07 16:29:39.162956 2013] [mpm_winnt:notice] [pid 5084:tid 176] AH00456: Server built: May 13 2012 14:10:15
+[Sun Apr 07 16:29:39.162956 2013] [core:notice] [pid 5084:tid 176] AH00094: Command line: 'C:\\Program Files (x86)\\Steam\\steamapps\\common\\Arma 2 Operation Arrowhead\\@dayzcc\\apache\\bin\\httpd.exe -d C:/Program Files (x86)/Steam/steamapps/common/Arma 2 Operation Arrowhead/@dayzcc/apache'
+[Sun Apr 07 16:29:39.162956 2013] [mpm_winnt:notice] [pid 5084:tid 176] AH00418: Parent: Created child process 3796
+[Sun Apr 07 16:29:40.223758 2013] [mpm_winnt:notice] [pid 3796:tid 304] AH00354: Child: Starting 64 worker threads.
+ERROR: The process "arma2oaserver_1.exe" not found.
+[Sun Apr 07 17:18:36.791371 2013] [core:warn] [pid 4988:tid 176] AH00098: pid file C:/Program Files (x86)/Steam/steamapps/common/Arma 2 Operation Arrowhead/@dayzcc/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Apr 07 17:18:37.009772 2013] [mpm_winnt:notice] [pid 4988:tid 176] AH00455: Apache/2.4.2 (Win32) PHP/5.4.4 configured -- resuming normal operations
+[Sun Apr 07 17:18:37.009772 2013] [mpm_winnt:notice] [pid 4988:tid 176] AH00456: Server built: May 13 2012 14:10:15
+[Sun Apr 07 17:18:37.009772 2013] [core:notice] [pid 4988:tid 176] AH00094: Command line: 'C:\\Program Files (x86)\\Steam\\steamapps\\common\\Arma 2 Operation Arrowhead\\@dayzcc\\apache\\bin\\httpd.exe -d C:/Program Files (x86)/Steam/steamapps/common/Arma 2 Operation Arrowhead/@dayzcc/apache'
+[Sun Apr 07 17:18:37.025372 2013] [mpm_winnt:notice] [pid 4988:tid 176] AH00418: Parent: Created child process 5068
+[Sun Apr 07 17:18:38.023774 2013] [mpm_winnt:notice] [pid 5068:tid 304] AH00354: Child: Starting 64 worker threads.
+[Sun Apr 07 18:59:24.419900 2013] [core:warn] [pid 2516:tid 176] AH00098: pid file C:/Program Files (x86)/Steam/steamapps/common/Arma 2 Operation Arrowhead/@dayzcc/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Apr 07 18:59:24.575900 2013] [mpm_winnt:notice] [pid 2516:tid 176] AH00455: Apache/2.4.2 (Win32) PHP/5.4.4 configured -- resuming normal operations
+[Sun Apr 07 18:59:24.575900 2013] [mpm_winnt:notice] [pid 2516:tid 176] AH00456: Server built: May 13 2012 14:10:15
+[Sun Apr 07 18:59:24.575900 2013] [core:notice] [pid 2516:tid 176] AH00094: Command line: 'C:\\Program Files (x86)\\Steam\\steamapps\\common\\Arma 2 Operation Arrowhead\\@dayzcc\\apache\\bin\\httpd.exe -d C:/Program Files (x86)/Steam/steamapps/common/Arma 2 Operation Arrowhead/@dayzcc/apache'
+[Sun Apr 07 18:59:24.575900 2013] [mpm_winnt:notice] [pid 2516:tid 176] AH00418: Parent: Created child process 4276
+[Sun Apr 07 18:59:25.480702 2013] [mpm_winnt:notice] [pid 4276:tid 304] AH00354: Child: Starting 64 worker threads.
+ERROR: The process "arma2oaserver_1.exe" not found.
+ERROR: The process "arma2oaserver_1.exe" with PID 3620 could not be terminated.
+Reason: This process can only be terminated forcefully (with /F option).
+ERROR: The process "arma2oaserver_1.exe" with PID 3620 could not be terminated.
+Reason: This process can only be terminated forcefully (with /F option).
+[Tue Apr 09 11:56:40.825378 2013] [core:warn] [pid 3080:tid 176] AH00098: pid file C:/Program Files (x86)/Steam/steamapps/common/Arma 2 Operation Arrowhead/@dayzcc/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Apr 09 11:56:42.042180 2013] [mpm_winnt:notice] [pid 3080:tid 176] AH00455: Apache/2.4.2 (Win32) PHP/5.4.4 configured -- resuming normal operations
+[Tue Apr 09 11:56:42.042180 2013] [mpm_winnt:notice] [pid 3080:tid 176] AH00456: Server built: May 13 2012 14:10:15
+[Tue Apr 09 11:56:42.042180 2013] [core:notice] [pid 3080:tid 176] AH00094: Command line: 'C:\\Program Files (x86)\\Steam\\steamapps\\common\\Arma 2 Operation Arrowhead\\@dayzcc\\apache\\bin\\httpd.exe -d C:/Program Files (x86)/Steam/steamapps/common/Arma 2 Operation Arrowhead/@dayzcc/apache'
+[Tue Apr 09 11:56:42.073380 2013] [mpm_winnt:notice] [pid 3080:tid 176] AH00418: Parent: Created child process 5032
+[Tue Apr 09 11:56:43.368182 2013] [mpm_winnt:crit] [pid 5032:tid 288] (OS 109)The pipe has been ended.  : AH00404: Child: Unable to read socket data from parent
+[Tue Apr 09 11:56:43.399382 2013] [mpm_winnt:crit] [pid 3080:tid 176] AH00427: Parent: child process exited with status 3 -- Aborting.
+[Tue Apr 09 11:57:14.839037 2013] [mpm_winnt:notice] [pid 2972:tid 292] AH00455: Apache/2.4.2 (Win32) PHP/5.4.4 configured -- resuming normal operations
+[Tue Apr 09 11:57:14.839037 2013] [mpm_winnt:notice] [pid 2972:tid 292] AH00456: Server built: May 13 2012 14:10:15
+[Tue Apr 09 11:57:14.839037 2013] [core:notice] [pid 2972:tid 292] AH00094: Command line: 'C:\\Program Files (x86)\\Steam\\steamapps\\common\\Arma 2 Operation Arrowhead\\@dayzcc\\apache\\bin\\httpd.exe -d C:/Program Files (x86)/Steam/steamapps/common/Arma 2 Operation Arrowhead/@dayzcc/apache'
+[Tue Apr 09 11:57:14.839037 2013] [mpm_winnt:notice] [pid 2972:tid 292] AH00418: Parent: Created child process 1976
+[Tue Apr 09 11:57:15.962239 2013] [mpm_winnt:notice] [pid 1976:tid 304] AH00354: Child: Starting 64 worker threads.
+ERROR: The process "arma2oaserver_1.exe" not found.
+[Tue Apr 09 18:31:11.567971 2013] [core:warn] [pid 5088:tid 176] AH00098: pid file C:/Program Files (x86)/Steam/steamapps/common/Arma 2 Operation Arrowhead/@dayzcc/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Apr 09 18:31:12.004772 2013] [mpm_winnt:notice] [pid 5088:tid 176] AH00455: Apache/2.4.2 (Win32) PHP/5.4.4 configured -- resuming normal operations
+[Tue Apr 09 18:31:12.004772 2013] [mpm_winnt:notice] [pid 5088:tid 176] AH00456: Server built: May 13 2012 14:10:15
+[Tue Apr 09 18:31:12.004772 2013] [core:notice] [pid 5088:tid 176] AH00094: Command line: 'C:\\Program Files (x86)\\Steam\\steamapps\\common\\Arma 2 Operation Arrowhead\\@dayzcc\\apache\\bin\\httpd.exe -d C:/Program Files (x86)/Steam/steamapps/common/Arma 2 Operation Arrowhead/@dayzcc/apache'
+[Tue Apr 09 18:31:12.004772 2013] [mpm_winnt:notice] [pid 5088:tid 176] AH00418: Parent: Created child process 3804
+[Tue Apr 09 18:31:13.221574 2013] [mpm_winnt:notice] [pid 3804:tid 304] AH00354: Child: Starting 64 worker threads.
+[Wed Apr 10 00:12:06.732077 2013] [core:warn] [pid 1536:tid 168] AH00098: pid file C:/Program Files (x86)/Steam/steamapps/common/Arma 2 Operation Arrowhead/@dayzcc/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Apr 10 00:12:07.639526 2013] [mpm_winnt:notice] [pid 1536:tid 168] AH00455: Apache/2.4.2 (Win32) PHP/5.4.4 configured -- resuming normal operations
+[Wed Apr 10 00:12:07.639526 2013] [mpm_winnt:notice] [pid 1536:tid 168] AH00456: Server built: May 13 2012 14:10:15
+[Wed Apr 10 00:12:07.639526 2013] [core:notice] [pid 1536:tid 168] AH00094: Command line: 'C:\\Program Files (x86)\\Steam\\steamapps\\common\\Arma 2 Operation Arrowhead\\@dayzcc\\apache\\bin\\httpd.exe -d C:/Program Files (x86)/Steam/steamapps/common/Arma 2 Operation Arrowhead/@dayzcc/apache'
+[Wed Apr 10 00:12:07.643526 2013] [mpm_winnt:notice] [pid 1536:tid 168] AH00418: Parent: Created child process 3828
+[Wed Apr 10 00:12:09.078401 2013] [mpm_winnt:notice] [pid 3828:tid 308] AH00354: Child: Starting 64 worker threads.
+[Thu Apr 11 03:41:13.249014 2013] [core:warn] [pid 4932:tid 168] AH00098: pid file C:/Program Files (x86)/Steam/steamapps/common/Arma 2 Operation Arrowhead/@dayzcc/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Apr 11 03:41:13.327014 2013] [mpm_winnt:notice] [pid 4932:tid 168] AH00455: Apache/2.4.2 (Win32) PHP/5.4.4 configured -- resuming normal operations
+[Thu Apr 11 03:41:13.327014 2013] [mpm_winnt:notice] [pid 4932:tid 168] AH00456: Server built: May 13 2012 14:10:15
+[Thu Apr 11 03:41:13.327014 2013] [core:notice] [pid 4932:tid 168] AH00094: Command line: 'C:\\Program Files (x86)\\Steam\\steamapps\\common\\Arma 2 Operation Arrowhead\\@dayzcc\\apache\\bin\\httpd.exe -d C:/Program Files (x86)/Steam/steamapps/common/Arma 2 Operation Arrowhead/@dayzcc/apache'
+[Thu Apr 11 03:41:13.327014 2013] [mpm_winnt:notice] [pid 4932:tid 168] AH00418: Parent: Created child process 5068
+[Thu Apr 11 03:41:14.294216 2013] [mpm_winnt:notice] [pid 5068:tid 296] AH00354: Child: Starting 64 worker threads.
+ERROR: The process "arma2oaserver_1.exe" not found.
+ERROR: The process "arma2oaserver_1.exe" with PID 3312 could not be terminated.
+Reason: This process can only be terminated forcefully (with /F option).
+ERROR: The process "arma2oaserver_1.exe" with PID 3312 could not be terminated.
+Reason: This process can only be terminated forcefully (with /F option).
+ERROR: The process "arma2oaserver_1.exe" not found.
+ERROR: The process "arma2oaserver_1.exe" with PID 7124 could not be terminated.
+Reason: This process can only be terminated forcefully (with /F option).
+ERROR: The process "arma2oaserver_1.exe" with PID 6376 could not be terminated.
+Reason: This process can only be terminated forcefully (with /F option).
+[Mon Apr 15 17:17:16.642377 2013] [core:warn] [pid 5004:tid 168] AH00098: pid file C:/Program Files (x86)/Steam/steamapps/common/Arma 2 Operation Arrowhead/@dayzcc/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 15 17:17:17.561429 2013] [mpm_winnt:notice] [pid 5004:tid 168] AH00455: Apache/2.4.2 (Win32) PHP/5.4.4 configured -- resuming normal operations
+[Mon Apr 15 17:17:17.561429 2013] [mpm_winnt:notice] [pid 5004:tid 168] AH00456: Server built: May 13 2012 14:10:15
+[Mon Apr 15 17:17:17.561429 2013] [core:notice] [pid 5004:tid 168] AH00094: Command line: 'C:\\Program Files (x86)\\Steam\\steamapps\\common\\Arma 2 Operation Arrowhead\\@dayzcc\\apache\\bin\\httpd.exe -d C:/Program Files (x86)/Steam/steamapps/common/Arma 2 Operation Arrowhead/@dayzcc/apache'
+[Mon Apr 15 17:17:17.563429 2013] [mpm_winnt:notice] [pid 5004:tid 168] AH00418: Parent: Created child process 4616
+[Mon Apr 15 17:17:18.818501 2013] [mpm_winnt:notice] [pid 4616:tid 296] AH00354: Child: Starting 64 worker threads.
+ERROR: The process "arma2oaserver_1.exe" not found.
+ERROR: The process "arma2oaserver_1.exe" not found.
+ERROR: The process "arma2oaserver_1.exe" not found.
+[Tue Apr 16 23:18:06.826261 2013] [core:warn] [pid 4880:tid 168] AH00098: pid file C:/Program Files (x86)/Steam/steamapps/common/Arma 2 Operation Arrowhead/@dayzcc/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Apr 16 23:18:06.873061 2013] [mpm_winnt:notice] [pid 4880:tid 168] AH00455: Apache/2.4.2 (Win32) PHP/5.4.4 configured -- resuming normal operations
+[Tue Apr 16 23:18:06.873061 2013] [mpm_winnt:notice] [pid 4880:tid 168] AH00456: Server built: May 13 2012 14:10:15
+[Tue Apr 16 23:18:06.873061 2013] [core:notice] [pid 4880:tid 168] AH00094: Command line: 'C:\\Program Files (x86)\\Steam\\steamapps\\common\\Arma 2 Operation Arrowhead\\@dayzcc\\apache\\bin\\httpd.exe -d C:/Program Files (x86)/Steam/steamapps/common/Arma 2 Operation Arrowhead/@dayzcc/apache'
+[Tue Apr 16 23:18:06.873061 2013] [mpm_winnt:notice] [pid 4880:tid 168] AH00418: Parent: Created child process 5028
+[Tue Apr 16 23:18:07.668662 2013] [mpm_winnt:notice] [pid 5028:tid 296] AH00354: Child: Starting 64 worker threads.
+[Thu Apr 18 14:21:31.654266 2013] [mpm_winnt:notice] [pid 4880:tid 168] AH00428: Parent: child process exited with status 3221225477 -- Restarting.
+[Thu Apr 18 14:21:32.417309 2013] [mpm_winnt:notice] [pid 4880:tid 168] AH00455: Apache/2.4.2 (Win32) PHP/5.4.4 configured -- resuming normal operations
+[Thu Apr 18 14:21:32.417309 2013] [mpm_winnt:notice] [pid 4880:tid 168] AH00456: Server built: May 13 2012 14:10:15
+[Thu Apr 18 14:21:32.417309 2013] [core:notice] [pid 4880:tid 168] AH00094: Command line: 'C:\\Program Files (x86)\\Steam\\steamapps\\common\\Arma 2 Operation Arrowhead\\@dayzcc\\apache\\bin\\httpd.exe -d C:/Program Files (x86)/Steam/steamapps/common/Arma 2 Operation Arrowhead/@dayzcc/apache'
+[Thu Apr 18 14:21:32.430310 2013] [mpm_winnt:notice] [pid 4880:tid 168] AH00418: Parent: Created child process 2236
+[Thu Apr 18 14:21:34.087405 2013] [mpm_winnt:notice] [pid 2236:tid 288] AH00354: Child: Starting 64 worker threads.
+[Thu Apr 18 14:21:38.707669 2013] [mpm_winnt:notice] [pid 4880:tid 168] AH00428: Parent: child process exited with status 3221225477 -- Restarting.
+[Thu Apr 18 14:21:38.802675 2013] [mpm_winnt:notice] [pid 4880:tid 168] AH00455: Apache/2.4.2 (Win32) PHP/5.4.4 configured -- resuming normal operations
+[Thu Apr 18 14:21:38.802675 2013] [mpm_winnt:notice] [pid 4880:tid 168] AH00456: Server built: May 13 2012 14:10:15
+[Thu Apr 18 14:21:38.802675 2013] [core:notice] [pid 4880:tid 168] AH00094: Command line: 'C:\\Program Files (x86)\\Steam\\steamapps\\common\\Arma 2 Operation Arrowhead\\@dayzcc\\apache\\bin\\httpd.exe -d C:/Program Files (x86)/Steam/steamapps/common/Arma 2 Operation Arrowhead/@dayzcc/apache'
+[Thu Apr 18 14:21:38.803675 2013] [mpm_winnt:notice] [pid 4880:tid 168] AH00418: Parent: Created child process 8088
+[Thu Apr 18 14:21:39.633722 2013] [mpm_winnt:notice] [pid 8088:tid 292] AH00354: Child: Starting 64 worker threads.
+[Thu Apr 18 14:21:54.323562 2013] [mpm_winnt:notice] [pid 4880:tid 168] AH00428: Parent: child process exited with status 3221225477 -- Restarting.
+[Thu Apr 18 14:21:54.426568 2013] [mpm_winnt:notice] [pid 4880:tid 168] AH00455: Apache/2.4.2 (Win32) PHP/5.4.4 configured -- resuming normal operations
+[Thu Apr 18 14:21:54.426568 2013] [mpm_winnt:notice] [pid 4880:tid 168] AH00456: Server built: May 13 2012 14:10:15
+[Thu Apr 18 14:21:54.426568 2013] [core:notice] [pid 4880:tid 168] AH00094: Command line: 'C:\\Program Files (x86)\\Steam\\steamapps\\common\\Arma 2 Operation Arrowhead\\@dayzcc\\apache\\bin\\httpd.exe -d C:/Program Files (x86)/Steam/steamapps/common/Arma 2 Operation Arrowhead/@dayzcc/apache'
+[Thu Apr 18 14:21:54.427568 2013] [mpm_winnt:notice] [pid 4880:tid 168] AH00418: Parent: Created child process 5168
+[Thu Apr 18 14:21:55.081606 2013] [mpm_winnt:notice] [pid 5168:tid 288] AH00354: Child: Starting 64 worker threads.
+[Thu Apr 18 14:22:07.764331 2013] [mpm_winnt:notice] [pid 4880:tid 168] AH00428: Parent: child process exited with status 3221225477 -- Restarting.
+[Thu Apr 18 14:22:07.857336 2013] [mpm_winnt:notice] [pid 4880:tid 168] AH00455: Apache/2.4.2 (Win32) PHP/5.4.4 configured -- resuming normal operations
+[Thu Apr 18 14:22:07.857336 2013] [mpm_winnt:notice] [pid 4880:tid 168] AH00456: Server built: May 13 2012 14:10:15
+[Thu Apr 18 14:22:07.857336 2013] [core:notice] [pid 4880:tid 168] AH00094: Command line: 'C:\\Program Files (x86)\\Steam\\steamapps\\common\\Arma 2 Operation Arrowhead\\@dayzcc\\apache\\bin\\httpd.exe -d C:/Program Files (x86)/Steam/steamapps/common/Arma 2 Operation Arrowhead/@dayzcc/apache'
+[Thu Apr 18 14:22:07.858337 2013] [mpm_winnt:notice] [pid 4880:tid 168] AH00418: Parent: Created child process 1688
+[Thu Apr 18 14:22:08.553376 2013] [mpm_winnt:notice] [pid 1688:tid 288] AH00354: Child: Starting 64 worker threads.
+[Thu Apr 18 14:22:30.879653 2013] [mpm_winnt:notice] [pid 4880:tid 168] AH00428: Parent: child process exited with status 3221225477 -- Restarting.
+[Thu Apr 18 14:22:30.954658 2013] [mpm_winnt:notice] [pid 4880:tid 168] AH00455: Apache/2.4.2 (Win32) PHP/5.4.4 configured -- resuming normal operations
+[Thu Apr 18 14:22:30.954658 2013] [mpm_winnt:notice] [pid 4880:tid 168] AH00456: Server built: May 13 2012 14:10:15
+[Thu Apr 18 14:22:30.954658 2013] [core:notice] [pid 4880:tid 168] AH00094: Command line: 'C:\\Program Files (x86)\\Steam\\steamapps\\common\\Arma 2 Operation Arrowhead\\@dayzcc\\apache\\bin\\httpd.exe -d C:/Program Files (x86)/Steam/steamapps/common/Arma 2 Operation Arrowhead/@dayzcc/apache'
+[Thu Apr 18 14:22:30.955658 2013] [mpm_winnt:notice] [pid 4880:tid 168] AH00418: Parent: Created child process 5132
+[Thu Apr 18 14:22:31.585694 2013] [mpm_winnt:notice] [pid 5132:tid 292] AH00354: Child: Starting 64 worker threads.
+[Thu Apr 18 14:27:28.754691 2013] [mpm_winnt:notice] [pid 4880:tid 168] AH00428: Parent: child process exited with status 3221225477 -- Restarting.
+[Thu Apr 18 14:27:28.922700 2013] [mpm_winnt:notice] [pid 4880:tid 168] AH00455: Apache/2.4.2 (Win32) PHP/5.4.4 configured -- resuming normal operations
+[Thu Apr 18 14:27:28.922700 2013] [mpm_winnt:notice] [pid 4880:tid 168] AH00456: Server built: May 13 2012 14:10:15
+[Thu Apr 18 14:27:28.922700 2013] [core:notice] [pid 4880:tid 168] AH00094: Command line: 'C:\\Program Files (x86)\\Steam\\steamapps\\common\\Arma 2 Operation Arrowhead\\@dayzcc\\apache\\bin\\httpd.exe -d C:/Program Files (x86)/Steam/steamapps/common/Arma 2 Operation Arrowhead/@dayzcc/apache'
+[Thu Apr 18 14:27:28.926701 2013] [mpm_winnt:notice] [pid 4880:tid 168] AH00418: Parent: Created child process 6056
+[Thu Apr 18 14:27:29.578738 2013] [mpm_winnt:notice] [pid 6056:tid 288] AH00354: Child: Starting 64 worker threads.
+[Thu Apr 18 14:27:38.249234 2013] [mpm_winnt:notice] [pid 4880:tid 168] AH00428: Parent: child process exited with status 3221225477 -- Restarting.
+[Thu Apr 18 14:27:38.338239 2013] [mpm_winnt:notice] [pid 4880:tid 168] AH00455: Apache/2.4.2 (Win32) PHP/5.4.4 configured -- resuming normal operations
+[Thu Apr 18 14:27:38.338239 2013] [mpm_winnt:notice] [pid 4880:tid 168] AH00456: Server built: May 13 2012 14:10:15
+[Thu Apr 18 14:27:38.338239 2013] [core:notice] [pid 4880:tid 168] AH00094: Command line: 'C:\\Program Files (x86)\\Steam\\steamapps\\common\\Arma 2 Operation Arrowhead\\@dayzcc\\apache\\bin\\httpd.exe -d C:/Program Files (x86)/Steam/steamapps/common/Arma 2 Operation Arrowhead/@dayzcc/apache'
+[Thu Apr 18 14:27:38.339239 2013] [mpm_winnt:notice] [pid 4880:tid 168] AH00418: Parent: Created child process 5880
+[Thu Apr 18 14:27:38.950274 2013] [mpm_winnt:notice] [pid 5880:tid 288] AH00354: Child: Starting 64 worker threads.
+[Thu Apr 18 14:27:49.639885 2013] [mpm_winnt:notice] [pid 4880:tid 168] AH00428: Parent: child process exited with status 3221225477 -- Restarting.
+[Thu Apr 18 14:27:49.692888 2013] [mpm_winnt:notice] [pid 4880:tid 168] AH00455: Apache/2.4.2 (Win32) PHP/5.4.4 configured -- resuming normal operations
+[Thu Apr 18 14:27:49.692888 2013] [mpm_winnt:notice] [pid 4880:tid 168] AH00456: Server built: May 13 2012 14:10:15
+[Thu Apr 18 14:27:49.692888 2013] [core:notice] [pid 4880:tid 168] AH00094: Command line: 'C:\\Program Files (x86)\\Steam\\steamapps\\common\\Arma 2 Operation Arrowhead\\@dayzcc\\apache\\bin\\httpd.exe -d C:/Program Files (x86)/Steam/steamapps/common/Arma 2 Operation Arrowhead/@dayzcc/apache'
+[Thu Apr 18 14:27:49.693888 2013] [mpm_winnt:notice] [pid 4880:tid 168] AH00418: Parent: Created child process 7776
+[Thu Apr 18 14:27:50.313924 2013] [mpm_winnt:notice] [pid 7776:tid 288] AH00354: Child: Starting 64 worker threads.
+[Fri Apr 19 08:32:22.685182 2013] [core:warn] [pid 1096:tid 164] AH00098: pid file C:/Program Files (x86)/Steam/steamapps/common/Arma 2 Operation Arrowhead/@dayzcc/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Apr 19 08:32:22.997182 2013] [mpm_winnt:notice] [pid 1096:tid 164] AH00455: Apache/2.4.2 (Win32) PHP/5.4.4 configured -- resuming normal operations
+[Fri Apr 19 08:32:22.997182 2013] [mpm_winnt:notice] [pid 1096:tid 164] AH00456: Server built: May 13 2012 14:10:15
+[Fri Apr 19 08:32:22.997182 2013] [core:notice] [pid 1096:tid 164] AH00094: Command line: 'C:\\Program Files (x86)\\Steam\\steamapps\\common\\Arma 2 Operation Arrowhead\\@dayzcc\\apache\\bin\\httpd.exe -d C:/Program Files (x86)/Steam/steamapps/common/Arma 2 Operation Arrowhead/@dayzcc/apache'
+[Fri Apr 19 08:32:22.997182 2013] [mpm_winnt:notice] [pid 1096:tid 164] AH00418: Parent: Created child process 3316
+[Fri Apr 19 08:32:23.855184 2013] [mpm_winnt:notice] [pid 3316:tid 296] AH00354: Child: Starting 64 worker threads.
+ERROR: The process "arma2oaserver_1.exe" not found.
+[Sat Apr 20 18:50:44.290106 2013] [core:warn] [pid 4400:tid 168] AH00098: pid file C:/Program Files (x86)/Steam/steamapps/common/Arma 2 Operation Arrowhead/@dayzcc/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Apr 20 18:50:44.461706 2013] [mpm_winnt:notice] [pid 4400:tid 168] AH00455: Apache/2.4.2 (Win32) PHP/5.4.4 configured -- resuming normal operations
+[Sat Apr 20 18:50:44.461706 2013] [mpm_winnt:notice] [pid 4400:tid 168] AH00456: Server built: May 13 2012 14:10:15
+[Sat Apr 20 18:50:44.461706 2013] [core:notice] [pid 4400:tid 168] AH00094: Command line: 'C:\\Program Files (x86)\\Steam\\steamapps\\common\\Arma 2 Operation Arrowhead\\@dayzcc\\apache\\bin\\httpd.exe -d C:/Program Files (x86)/Steam/steamapps/common/Arma 2 Operation Arrowhead/@dayzcc/apache'
+[Sat Apr 20 18:50:44.461706 2013] [mpm_winnt:notice] [pid 4400:tid 168] AH00418: Parent: Created child process 5064
+[Sat Apr 20 18:50:45.444508 2013] [mpm_winnt:notice] [pid 5064:tid 296] AH00354: Child: Starting 64 worker threads.
+ERROR: The process "arma2oaserver_1.exe" with PID 3208 could not be terminated.
+Reason: This process can only be terminated forcefully (with /F option).
+ERROR: The process "arma2oaserver_1.exe" not found.
+ERROR: The process "arma2oaserver_1.exe" not found.
